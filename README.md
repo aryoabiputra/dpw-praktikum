@@ -1,2 +1,2 @@
-# dpw-praktikum
+# PRAKTIKUM DASAR PEMROGRAMAN WEBQ
 
